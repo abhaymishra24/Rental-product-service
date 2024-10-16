@@ -15,7 +15,7 @@ After a certain period of time, you must return the rental product. Consumers ca
 
 ## Available rental products
 
-- Clothes
+- Clothes (Optional)
 - Equipments (Music, Lab, Decoration)
 - House product
 - Gym products
