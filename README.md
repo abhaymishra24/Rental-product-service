@@ -18,6 +18,7 @@ After a certain period of time, you must return the rental product. Consumers ca
 - Clothes
 - Equipments (Music, Lab, Decoration)
 - House product
+- Gym products
 - Electronic Gadgets etc.
 
 ## Collaboration and Contribution🤝🧑‍💻
