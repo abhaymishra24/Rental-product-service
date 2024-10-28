@@ -25,7 +25,7 @@ After a certain period of time, you must return the rental product. Consumers ca
 
 I would like to welcome everyone who can contribute to this project, discuss it, and suggest new features and technologies. I would be very grateful to you if you contributed to this project and helped build such a great product for the world.🤝🧑‍💻🚀
 
-For Discuss more about project, reach out to me (techabhay06@gmail.com)
+For discuss more about project, reach out to me (techabhay06@gmail.com)
 
 ## Thank you for visiting this repository😊
 
