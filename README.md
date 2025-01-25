@@ -14,7 +14,7 @@ This project focuses on online rental product service providers. This rental ser
 Party equipment rental, Clothes product, House product, Hardware product etc. With the help of a rental product service, you can easily rent home-use equipment, Hardware and clothes from an online platform. After booking, a delivery person will bring your rental products to your location.
 After a certain period of time, you must return the rental product. Consumers can rent a particular product for a certain period of time at a reasonable amount.
 
-### Available rental products📦
+### Available rental products🗳️
 - Clothes (Optional)
 - Equipments (Music, Lab, Decoration)
 - House product
