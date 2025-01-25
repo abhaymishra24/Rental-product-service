@@ -13,7 +13,7 @@ This project focuses on online rental product service providers. This rental ser
 Party equipment rental, Clothes product, House product, Hardware product etc. With the help of a rental product service, you can easily rent home-use equipment, Hardware and clothes from an online platform. After booking, a delivery person will bring your rental products to your location.
 After a certain period of time, you must return the rental product. Consumers can rent a particular product for a certain period of time at a reasonable amount.
 
-### Available rental products
+### Available rental products-
 
 - Clothes (Optional)
 - Equipments (Music, Lab, Decoration)
@@ -23,10 +23,9 @@ After a certain period of time, you must return the rental product. Consumers ca
 
 ### Collaboration and Contribution🤝🧑‍💻
 
-I would like to welcome everyone who can contribute to this project, discuss it, and suggest new features and technologies. I would be very grateful to you if you contributed to this project and helped build such a great product for the world.🤝🧑‍💻🚀
-
-For discuss more about project, reach out to me (techabhay06@gmail.com)
+I would like to welcome everyone who can contribute to this project, discuss it, and suggest new features and technologies. 
+I would be very grateful to you if you contributed to this project and helped build such a great product for the world.🤝🧑‍💻🚀
+##### For discuss more about project, reach out to me (techabhay06@gmail.com)
 
 ### Thank you for visiting this repository😊
-
 Feel free to explore my other repositories and reach out to me for collaborations or discussions on new idea and projects.🤝🧑‍💻🚀
